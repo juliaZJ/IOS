@@ -1,15 +1,15 @@
 //
-//  CalculatorTests.swift
-//  CalculatorTests
+//  MyCalculatorTests.swift
+//  MyCalculatorTests
 //
-//  Created by Zheng Jia on 3/23/15.
+//  Created by Zheng Jia on 3/30/15.
 //  Copyright (c) 2015 Santa Clara University. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class CalculatorTests: XCTestCase {
+class MyCalculatorTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
